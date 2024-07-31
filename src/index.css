@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+nav{
+  color: white !important;
+}
+a{
+  color: white !important;
+  padding: 10px;
+  border-radius: 8px;
+  font-size: 18px;
+}
+.active{
+  background-color: #1ABC9C;
+}
+nav button{
+  color: white !important;
+  background-color: #1ABC9C !important;
+}
